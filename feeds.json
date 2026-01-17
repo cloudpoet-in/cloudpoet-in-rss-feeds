@@ -1,21 +1,78 @@
-{
-  "caddy": "https://github.com/caddyserver/caddy/releases.atom",
-  "crowdsec": "https://github.com/crowdsecurity/crowdsec/releases.atom",
-  "debian": "https://www.debian.org/News/news",
-  "fedora": "https://fedoramagazine.org/feed",
-  "gotify": "https://github.com/gotify/server/releases.atom",
-  "immich": "https://github.com/immich-app/immich/releases.atom",
-  "mullvad": "https://mullvad.net/blog/feed/atom/",
-  "netbird": "https://github.com/netbirdio/netbird/releases.atom",
-  "nextcloud": "https://nextcloud.com/feed/",
-  "ntfy": "https://github.com/binwiederhier/ntfy/releases.atom",
-  "ntopng": "https://github.com/ntop/ntopng/releases.atom",
-  "pangolin": "https://github.com/fosrl/pangolin/releases.atom",
-  "pi-hole": "https://pi-hole.net/feed/",
-  "proxmox": "https://pve.proxmox.com/mediawiki/index.php?title=Special:RecentChanges&feed=atom",
-  "qubes-os": "https://www.qubes-os.org/feed.xml",
-  "rocky-linux": "https://dl.rockylinux.org/pub/feeds/Rocky-Linux-9-x86_64-BaseOS.xml",
-  "simplex-chat": "https://github.com/simplex-chat/simplex-chat/releases.atom",
-  "traefik": "https://traefik.io/rss.xml",
-  "vaultwarden": "https://github.com/dani-garcia/vaultwarden/releases.atom"
-}
+[
+  {
+    "name": "caddy",
+    "url": "https://github.com/caddyserver/caddy/releases.atom"
+  },
+  {
+    "name": "crowdsec",
+    "url": "https://github.com/crowdsecurity/crowdsec/releases.atom"
+  },
+  {
+    "name": "debian",
+    "url": "https://www.debian.org/News/news"
+  },
+  {
+    "name": "fedora",
+    "url": "https://fedoramagazine.org/feed"
+  },
+  {
+    "name": "gotify",
+    "url": "https://github.com/gotify/server/releases.atom"
+  },
+  {
+    "name": "immich",
+    "url": "https://github.com/immich-app/immich/releases.atom"
+  },
+  {
+    "name": "mullvad",
+    "url": "https://mullvad.net/blog/feed/atom/"
+  },
+  {
+    "name": "netbird",
+    "url": "https://github.com/netbirdio/netbird/releases.atom"
+  },
+  {
+    "name": "nextcloud",
+    "url": "https://nextcloud.com/feed/"
+  },
+  {
+    "name": "ntfy",
+    "url": "https://github.com/binwiederhier/ntfy/releases.atom"
+  },
+  {
+    "name": "ntopng",
+    "url": "https://github.com/ntop/ntopng/releases.atom"
+  },
+  {
+    "name": "pangolin",
+    "url": "https://github.com/fosrl/pangolin/releases.atom"
+  },
+  {
+    "name": "pi-hole",
+    "url": "https://pi-hole.net/feed/"
+  },
+  {
+    "name": "proxmox",
+    "url": "https://pve.proxmox.com/mediawiki/index.php?title=Special:RecentChanges&feed=atom"
+  },
+  {
+    "name": "qubes-os",
+    "url": "https://www.qubes-os.org/feed.xml"
+  },
+  {
+    "name": "rocky-linux",
+    "url": "https://dl.rockylinux.org/pub/feeds/Rocky-Linux-9-x86_64-BaseOS.xml"
+  },
+  {
+    "name": "simplex-chat",
+    "url": "https://github.com/simplex-chat/simplex-chat/releases.atom"
+  },
+  {
+    "name": "traefik",
+    "url": "https://traefik.io/rss.xml"
+  },
+  {
+    "name": "vaultwarden",
+    "url": "https://github.com/dani-garcia/vaultwarden/releases.atom"
+  }
+]
